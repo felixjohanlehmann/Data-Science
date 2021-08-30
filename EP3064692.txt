@@ -1,0 +1,254 @@
+Die Erfindung betrifft eine Feststellanordnung für eine Tür. Weiterhin betrifft die Erfindung ein Verfahren zum Betreiben einer Feststellanordnung.
+
+[0002] Feststellanordnungen sind in der Gebäudetechnik weit verbreitet für Tür- und Torsysteme, mit denen Brandschutzabschlüsse gemäß den geltenden Vorschriften ausgestattet werden. Eine Feststellanordnung besteht hierbei aus mindestens den folgenden Komponenten: Auslösevorrichtung, Energieversorgungseinrichtung und Haltevorrichtung. Die Feststellanordnung ermöglicht eine mit einem montierten Türschließer ausgerüstete Tür entweder in einem festgelegten oder gewählten Winkel offenzuhalten, bis sie elektrisch ausgelöst wird. In vorbekannten Lösungen werden die einzelnen Komponenten der Feststellanordnung mit dem Gebäudestromnetz zur Energieversorgung verbunden. Insbesondere bei der Nachrüstung oder Erweiterung bestehender Gebäude entsteht durch eine Verkabelung mit dem Gebäudestromnetz ein großer Aufwand. Um die Verkabelung optisch annehmbar zu verlegen, ist es gegebenenfalls notwendig, die Wände und Decken aufzustemmen, damit die Kabel "unter Putz" verlegt werden können. Im Falle historischer Gebäudesubstanzen entstehen dabei zum Teil erhebliche Schäden durch die Nachrüstung mit Feststellanordnungen für Feuerschutztüren.
+
+[0003] Der Erfindung liegt die Aufgabe zugrunde, eine Feststellanordnung bereitzustellen, welche den vorgenannten Nachteil vermeidet, insbesondere eine Feststellanordnung bereitzustellen, die montagefreundlich ist. Ebenso ist es Aufgabe der Erfindung ein passendes Verfahren zum Betreiben der Feststellanordnung anzugeben.
+
+[0004] Die Aufgabe wird gelöst durch den unabhängigen Anspruch 1. Vorteilhafte Weiterbildungen der Feststellanordnung sind in den abhängigen Vorrichtungsansprüche, der Beschreibung und in den Figuren angegeben. Ferner wird die Erfindung auch durch die Merkmale des unabhängigen Verfahrensanspruchs gemäß dem unabhängigen Anspruch 13 gelöst. Vorteilhafte Weiterbildungen des Verfahrens sind in den abhängigen Verfahrensansprüchen, der Beschreibung und in den Figuren angegeben. Merkmale und Details, die in Zusammenhang mit der erfindungsgemäßen Feststellanordnung beschrieben sind, gelten dabei auch in Zusammenhang mit dem erfindungsgemäßen Verfahren und umgekehrt. Dabei können die in der Beschreibung und in den Ansprüchen erwähnten Merkmale jeweils einzeln für sich oder in Kombination erfindungswesentlich sein. Insbesondere wird eine Feststellanordnung unter Schutz gestellt, mit dem das erfindungsgemäße Verfahren ausführbar ist, wie auch ein Verfahren, das mit der erfindungsgemäßen Feststellanordnung ausgeführt werden kann.
+
+[0005] Somit wird die Aufgabe gelöst durch eine Feststellanordnung für eine Tür, die zum Halten der Tür in geschlossener oder offener Stellung ausgebildet ist. Unter dem Ausdruck Tür sind hier ebenfalls Türflügel sowie Tore und Torflügel zu subsumieren. Die Feststellanordnung umfasst eine zum Senden eines Auslösesignals ausgebildete Auslösevorrichtung, wobei die Auslösevorrichtung insbesondere ein Rauchmelder oder ein Brandmelder ist. Alternativ oder zusätzlich ist bevorzugt vorgesehen, dass mit der Auslösevorrichtung Eingabegeräte und/oder Sensoren verbindbar sind. Des Weiteren umfasst die Feststellanordnung eine zum Feststellen der Tür in geschlossener oder offener Stellung ausgebildete Haltevorrichtung. Dabei ist vorgesehen, dass die Feststellanordnung ausgebildet ist, durch Zufuhr elektrischer Energie die Haltevorrichtung von einem feststellenden Zustand in einen freigebenden Zustand zu überführen. Insbesondere ist es möglich, dass sich die Haltevorrichtung ohne Zufuhr elektrischer Energie in dem feststellenden und/oder freigebenden Zustand befinden kann. Somit ist das Arbeitsstromprinzip realisiert. Dies ermöglicht einen energiesparenden Betrieb der Feststellanordnung. Durch den energiesparenden Betrieb ist es möglich, auf eine Verkabelung zu dem Gebäudestromnetz zu verzichten und damit eine montagefreundliche Feststellanordnung bereitzustellen. Unter dem feststellenden Zustand der Haltevorrichtung wird insbesondere ein Zustand verstanden, der zum Feststellen der Tür durch die Haltevorrichtung dient. Unter dem freigebenden Zustand wird insbesondere ein Zustand verstanden, bei dem die Haltevorrichtung die Tür freigegeben hat, so dass die Tür bewegbar, insbesondere schließbar, ist. In dem freigebenden Zustand wird es insbesondere einem zusätzlich zu der Feststellanordnung vorhandenen Türbetätiger erlaubt, die Tür aus der zuvor gehaltenen Position zu öffnen oder zu schließen. Die Überführung der Haltevorrichtung von dem feststellenden in den freigebenden Zustand dient somit insbesondere zum Freigeben der Tür. Optional kann vorgesehen sein, dass durch Zufuhr von elektrischer Energie die Haltevorrichtung von dem freigebenden Zustand in den feststellenden Zustand überführbar ist.
+
+[0006] Insbesondere nach Aussenden eines Auslösesignals durch die Auslösevorrichtung wird die Haltevorrichtung von dem feststellenden in den freigebenden Zustand überführt. Durch die Überführung in den freigebenden Zustand wird es einem zusätzlich vorhandenen Türbetätiger erlaubt, die Tür aus der gehaltenen Position zu öffnen oder zu schließen. Die Feststellanordnung weist zumindest zwei voneinander unabhängige Subsysteme auf, wobei die Haltevorrichtung von jedem Subsystem unabhängig von dem mindestens einen übrigen Subsystem von dem feststellenden in den freigebenden Zustand überführbar ist. Somit ist eine hohe Zuverlässigkeit der Freigabe erreicht, so dass die Tür im Falle einer Gefahr, insbesondere eines Brandes, sicher und zuverlässig freigegeben wird. Die Feststellvorrichtung ist besonders bevorzugt batteriebetrieben und damit unabhängig von einer externen Stromversorgung. Die Feststellanordnung kann mindestens eine Batterie oder mindestens einen Akkumulator als eine Energiespeichereinheit aufweisen. Die Feststellanordnung ist insbesondere frei von einer elektrischen Verbindung zu einem Gebäudestromnetz.
+
+[0007] Insbesondere umfasst die Feststellanordnung eine Haltevorrichtung, die dazu ausgebildet ist, die Tür nur in offener Stellung festzustellen. Entsprechend ist die Feststellanordnung bevorzugt dazu ausgebildet, bei Aussenden des Auslösesignals die Haltevorrichtung in den freigebenden Zustand zu überführen, so dass die Tür schließbar ist.
+
+[0008] Die mindestens zwei Subsysteme sind insbesondere vorgesehen, da nach dem Arbeitsstromprinzip zur Freigabe der Tür elektrische Energie benötigt wird. Hierbei überführt bei einem Ausfall eines Subsystems ein anderes Subsystem die Haltevorrichtung in den freigebenden Zustand. Vorzugsweise empfängt jedes Subsystem das Auslösesignal der Auslösevorrichtung.
+
+[0009] Jedes Subsystem umfasst bevorzugt eine von elektrischem Strom durchfließbaren Komponente der Haltevorrichtung, mit deren Hilfe der freigebende Zustand erreicht wird. Die Komponente kann z. B. als eine Magnetspule ausgebildet sein. Durch die Komponente ist ein Element der Haltevorrichtung, z. B. ein Anker, bewegbar, durch das die Überführung in den freigebenden Zustand erfolgt. Beispielsweise kann hierbei eine Blockade einer Haltemechanik der Haltevorrichtung aufgehoben werden. Die Komponente kann hierbei Teil eines Aktors, z. B. eines Elektromagneten oder eines Elektromotors, sein. Eine derartige Haltevorrichtung ist z .B. in der DE 10 2010 061 246 A1 offenbart, auf die vollumfänglich Bezug genommen wird.
+
+[0010] Bevorzugt bildet jedes Subsystem zumindest einen Stromkreis oder ist Teil von zumindest einem Stromkreis, der vom Empfang des Auslösesignals bis zur elektrisch durchfließbaren Komponente der Haltevorrichtung reicht. Somit kann jedes Subsystem insbesondere jeweils eigenständig nach dem Empfangen des Auslösesignals die Überführung in den freigebenden Zustand bewirken. Die Haltevorrichtung kann darüber hinaus mechanische Komponenten, wie z. B. den Anker und die Haltemechanik aufweisen, die bevorzugt nicht Teil des Subsystems sind. In dem feststellenden Zustand ist bevorzugt die Haltemechanik blockiert.
+
+[0011] Bevorzugt ist eine einzige Energieversorgung zur Versorgung der Feststellanordnung mit elektrischer Energie vorgesehen. Die Energieversorgung versorgt bevorzugt alle Subsysteme der Feststellanordnung mit elektrischer Energie. Die Energieversorgung ist insbesondere mindestens eine Batterie oder mindestens ein Akkumulator.
+
+[0012] Weiterhin ist bevorzugt vorgesehen, dass jedes Subsystem der Feststellanordnung zumindest eine Magnetspule und zumindest eine zur Ansteuerung der Magnetspule vorgesehene Steuervorrichtung aufweist. Besonders bevorzugt ist vorgesehen, dass jede Magnetspule von einer eigenen Steuervorrichtung ansteuerbar ist. Dabei ist insbesondere vorgesehen, dass durch ein Ansteuern einer der Magnetspulen die Haltevorrichtung von dem feststellenden Zustand in den freigebenden Zustand überführbar, insbesondere umschaltbar, ist. Hierbei kann durch jede der Magnetspulen die Umschaltung erreicht werden.
+
+[0013] Bevorzugt sind Magnetspulen Teil eines Elektromagneten, mit dem eine Haltemechanik blockierbar ist. Die Magnetspulen können insbesondere parallel gewickelt ausgeführt sein. Alternativ sind die Magnetspulen hintereinander angeordnet.
+
+[0014] Der Elektromagnet kann insbesondere Teil eines bistabilen elektromagnetischen Systems sein.
+
+[0015] Weiterhin weist bevorzugt jedes Subsystem zumindest eine Überwachungsvorrichtung, insbesondere eine Überwachungselektronik, auf. Besonders bevorzugt ist jeder Magnetspule eine eigene Überwachungsvorrichtung zugeordnet. Die Steuervorrichtung überwacht vorteilhafterweise über die Überwachungsvorrichtung einen Betriebszustand der Magnetspule. Somit sind Defekte oder Unregelmäßigkeiten im Betrieb der Magnetspule erkennbar. Durch die mindestens doppelte Ausführung der Magnetspulen und Steuervorrichtungen ist es somit trotz erkanntem Fehler bei einer der Magnetspulen weiterhin möglich, die Haltevorrichtung mittels der anderen Magnetspule in den freigebenden Zustand zu überführen. Um einen Ausfall der Feststellanordnung zu vermeiden ist außerdem bevorzugt vorgesehen, dass die Haltevorrichtung in den freigebenden Zustand überführt wird, wenn ein Fehler bei einer der Magnetspulen erkannt ist.
+
+[0016] Mittels der Überwachungsvorrichtung wird bevorzugt eine Stromstärke des durch die Magnetspule fließenden Stroms ermittelt. So kann die Überwachungsvorrichtung selber die elektrische Stromstärke ermitteln. Alternativ ist vorgesehen, dass die Steuereinheit die Stromstärke an der Überwachungsvorrichtung ermittelt, sodass die Überwachungsvorrichtung lediglich einen elektrischer Widerstand zur indirekten Ermittlung der Stromstärke umfasst. Insbesondere wird über einer Messung einer am Widerstand anliegenden Spannung die Stromstärke ermittelt.
+
+[0017] Die Ermittlung der Stromstärke erfolgt dabei bei jeder Bestromung der Magnetspule. Alternativ oder zusätzlich kann vorgesehen sein, dass über die Überwachungsvorrichtung in vorgegebenen Abständen, die in der Steuervorrichtung hinterlegt ist, die durch die Magnetspule fließende elektrische Stromstärke ermittelt wird. Die vorgegebenen Abstände können insbesondere identisch sein. So kann beispielsweise alle vierundzwanzig Stunden eine derartige Ermittlung der Stromstärke durchgeführt werden. Hierdurch kann festgestellt werden, ob ein ausreichender Stromfluss durch die Magnetspule fließbar ist, so dass die Magnetspule im Brandfall den freigebenden Zustand herstellen kann. Beispielsweise kann als ein auftretender Fehler der Stromfluss durch die Magnetspule durch eine Unterbrechung eines Stromkreises verhindert sein. Zur Durchführung der Ermittlung der Stromstärke wird die Magnetspule mit einer derartigen Polung bestromt, dass die Bestromung wirkungslos auf den Zustand der Haltevorrichtung ist.
+
+[0018] Besonders bevorzugt umfasst die Feststellvorrichtung eine Energiespeichereinheit als Energieversorgung. Die Energiespeichereinheit kann einen oder mehrere elektrochemische Energiespeicher aufweisen. Der elektrochemische Energiespeicher kann als Batterie oder als Akkumulator ausgebildet sein. Die mehreren Energiespeicher können in Reihe und/oder parallel geschaltet sein. Beispielsweise können mehrere, z. B. zwei, Energiespeicher in Reihe und die Reihen der Energiespeicher zueinander wiederum parallel geschaltet sein. Insbesondere kann die Energiespeichereinheit als ein Energiespeicherpaket mit mehreren Energiespeichern ausgebildet sein.
+
+[0019] Jedes Subsystem weist bevorzugt zumindest einen Energiezwischenspeicher, insbesondere einen Kondensator, auf. Besonders bevorzugt ist jeder Magnetspule ein eigener Energiezwischenspeicher zugeordnet. Dabei ist elektrische Energie aus dem Energiezwischenspeicher, insbesondere über eine Leistungsvorrichtung, insbesondere eine Leistungselektronik, der Magnetspule zuführbar. Die Leistungsvorrichtung ist insbesondere als ein Schalter zur Einstellung der Stromflussrichtung ausgebildet. Die Leistungsvorrichtung ist bevorzugt von der Steuervorrichtung ansteuerbar. Der Energiezwischenspeicher ist insbesondere mindestens zur Speicherung derjenigen Energiemenge ausgebildet, die zur Überführung in den freigebenden Zustand notwendig ist. Bevorzugt ist mindestens die zwei-fache Energiemenge in dem Energiezwischenspeicher speicherbar. Hierdurch ist ein sicheres Überführen der Haltevorrichtung in den freigebenden Zustand auch dann gewährleistet, wenn die Energieversorgung nicht genügend Energie zum Umschalten der Magnetspule zur Verfügung stellt. Zudem kann es sein, dass nur der Energiezwischenspeicher eine genügende Stromstärke für die Magnetspule zur Verfügung stellen kann. Der empfohlene maximale Dauerstrom eines Energiespeichers der Energiespeichereinheit kann z. B. hingegen zwischen 20 mA und 200 mA, bevorzugt zwischen 60 mA und 120 mA betragen. Der maximale gepulste Entladestrom des Energiespeichers kann zwischen 80 mA und 400 mA, bevorzugt zwischen 150 mA und 250 mA betragen. Hierdurch kann die Energiespeichereinheit besonders sicher ausgestaltet sein. Die Magnetspule erhält elektrische Energie bevorzugt nur über den Energiezwischenspeicher von der Energieversorgung.
+
+[0020] Es ist vorteilhafterweise vorgesehen, dass die Energiespeichereinheit über jeweils eine Speichervorrichtung, insbesondere eine Speicherelektronik, mit jeder Steuervorrichtung elektrisch verbunden ist. Alternativ oder zusätzlich ist die Energiespeichereinheit über jeweils einen Spannungswandler mit jedem Energiezwischenspeicher verbunden. Über den Spannungswandler kann eine höhere elektrische Spannung in dem Energiezwischenspeicher als in der Energiespeichereinheit erzeugt werden. Insbesondere über den Spannungswandler kann die Steuervorrichtung ein Aufladen des Energiezwischenspeichers veranlassen. Besonders bevorzugt ist ein Bestromen der Magnetspule nur über den Energiezwischenspeicher vorgesehen. Somit ist der Energiezwischenspeicher zwischen der Energiespeichereinheit und der Magnetspule angeordnet.
+
+[0021] Über die Speichervorrichtung kann für die Steuervorrichtungen ein Ladezustand der Energiespeichereinheit selbst erfassbar sein. Somit ist erkennbar, wann die Energiespeichereinheit ausgetauscht werden muss. Insbesondere ist ein Spannungsausfall und/oder eine Unterspannung der Energiespeichereinheit über die Speichervorrichtung detektierbar. Hierbei kann die Speichervorrichtung eine Spannungsmessstelle enthalten. In einer Ausführungsform kann die Speichervorrichtung selber eine elektrische Spannung, die die Energiespeichereinheit charakterisiert, ermitteln. Alternativ ist vorgesehen, dass die Steuereinheit mittels der Speichervorrichtung die die Energiespeichereinheit charakterisierende Spannung ermittelt.
+
+[0022] Es ist denkbar, dass die Speichervorrichtung einen Kondensator umfasst. Der Kondensator kann vorgesehen sein, um bei Ausfall der Energieversorgungseinheit die jeweilige Steuervorrichtung mit elektrischer Energie zu versorgen. Insbesondere ist in dem Kondensator zumindest die Energiemenge speicherbar, die notwendig ist, damit die Steuervorrichtung die Überführung der Haltevorrichtung in den freigebenden Zustand initiiert. Zusätzlich oder alternativ kann die Speichervorrichtung eine Spannungswandlungsvorrichtung zur Anpassung der Spannung der Energiespeichereinheit an die Spannung der Steuervorrichtung umfassen.
+
+[0023] In bevorzugter Ausführung ist die Auslösevorrichtung mit jeder Steuervorrichtung elektrisch verbunden. Insbesondere sendet die Auslösevorrichtung das Auslösesignal aus, sobald ein Brand- oder Rauchzustand detektiert worden ist. Außerdem ist besonders bevorzugt vorgesehen, dass die Auslösevorrichtung batteriebetrieben ist. Insbesondere kann die Energiespeichereinheit auch die Auslösevorrichtung mit elektrischer Energie versorgen. Somit bedarf es für die Auslösevorrichtung keiner Verkabelung zu einer externen Energieversorgung. Weiterhin ist die Auslösevorrichtung vorteilhafterweise selbstüberwachend ausgeführt, wodurch ein zuverlässiges Aussenden des Auslösesignals sichergestellt ist. Die Verbindung zwischen Auslösevorrichtung und den Steuervorrichtungen ist insbesondere eine drahtgebundene Verbindung. Besonders vorteilhaft beinhaltet die Auslösevorrichtung eine Rauchmeldezentrale. Die Rauchmeldezentrale umfasst insbesondere einen eigenen Rauchsensor und/oder ist mit zusätzlichen Rauchmeldern und/oder anderen Signalgebern verbindbar. Die Rauchmeldezentrale ist bevorzugt über eine Funkverbindung mit den zusätzlichen Rauchmeldern und/oder den anderen Signalgebern verbindbar.
+
+[0024] Bevorzugt ist mit der Haltevorrichtung ein Gleitelement innerhalb einer Gleitschiene feststellbar und/oder freigebbar. Das heißt, bei einer Überführung der Haltevorrichtung von dem feststellenden in den freigebenden Zustand wird das Gleitelement freigegeben, so dass das Gleitelement in der Gleitschiene bewegbar wird. Das Gleitelement ist mit der Tür verbindbar. In dem feststellenden Zustand ist das Gleitelement in der Gleitschiene durch die Haltevorrichtung festgestellt. Bevorzugt blockiert die Haltevorrichtung, insbesondere die Haltemechanik, das Gleitelement in der Gleitschiene in dem feststellenden Zustand. In dem freigebenden Zustand ist das Gleitelement in der Gleitschiene beweglich angeordnet, so dass auch die Tür bewegbar ist.
+
+[0025] Vorteilhafterweise weist die Haltevorrichtung den Anker und die Haltemechanik auf. Der Anker und die Haltemechanik sind wirkverbunden. Es kann sein, dass der Anker durch jede der Magnetspulen in eine erste Position bringbar ist, in der die Haltemechanik das Gleitelement blockiert. Hierbei kann die Haltemechanik beispielsweise das Gleitelement form- und/oder kraftschlüssig umfassen. Ebenfalls kann es sein, dass der Anker durch jede der Magnetspule in eine zweite Position bringbar ist, in der die Haltemechanik das Gleitelement freigibt. Hierbei kann beispielsweise der Form- und/oder Kraftschluss zwischen der Haltemechanik und des Gleitelements aufgehoben sein. In der ersten Position ist das Gleitelement innerhalb der Gleitschiene festgestellt. In der ersten und/oder der zweiten Position kann bevorzugt der Anker durch einen Permanentmagneten gehalten sein. Daher wird keine zusätzliche Energie benötigt, um die Tür z. B. festgestellt zu halten.
+
+[0026] Beispielsweise ist der Anker in einer der Positionen durch den Permanentmagneten gehalten, während der Anker in der anderen Position durch die Kraft einer Feder gehalten ist. Um von der einen Position zu der anderen Position zu gelangen, wird mittels des durch die Magnetspule erzeugten Magnetfeldes die Kraft des Permanentmagneten zumindest solange überwunden, bis der Anker durch die Feder in die andere Position bewegbar ist. Um den Anker von der anderen Position in die eine Position zu bewegen, wird mittels des durch die Magnetspule erzeugten Magnetfeldes die Kraft der Feder zumindest solange überwunden, bis der Anker durch die Kraft des Permanentmagneten in die eine Position bewegbar ist.
+
+[0027] Schließlich weist die Feststellanordnung vorteilhafterweise einen Positionssensor auf, der eine Position des durch die Magnetspule bewegbaren Elements der Haltevorrichtung, insbesondere des Ankers, erfasst. Der Positionssensor ist insbesondere ein magnetischer Schalter oder ein Mikroschalter.
+
+[0028] Die Steuervorrichtungen der Subsysteme sind bevorzugt über eine Datenleitung zur gegenseitigen Überwachung miteinander verbunden. Über die Datenleitung können insbesondere Daten ausgetauscht werden, ein Statusvergleich vorgenommen werden und/oder der jeweils anderen Steuervorrichtung eine Fehlermeldung gesendet werden.
+
+[0029] Ferner kann die Feststellanordnung eine Anzeigevorrichtung zum Anzeigen eines Defektes aufweisen.
+
+[0030] Die Auslösevorrichtung der Feststellanordnung ist insbesondere mit einem, besonders bevorzugt batteriebetriebenen, Signalgeber verbindbar. Dieser Signalgeber ist insbesondere ein optional vorhandener Brandmelder oder Rauchmelder der Feststellanordnung. Empfängt die Auslösevorrichtung ein Signal von dem Signalgeber, das auf einen detektierten Brand hindeutet, so sendet die Auslösevorrichtung das Auslösesignal aus, wodurch die Haltevorrichtung in den freigebenden Zustand überführt wird. Dadurch kann ein mit der Tür verbundener Türbetätiger auf die Tür wirken. Insbesondere ist im Türbetätiger eine Schließ- oder Öffnungsfeder vorgesehen. Die Kraft der vorgespannten Feder wird bei ausgelöster Feststellvorrichtung auf die Tür übertragen, so dass sich diese öffnet oder schließt. Der Türbetätiger ist insbesondere nicht Teil der Feststellanordnung.
+
+[0031] Besonders bevorzugt ist die erfindungsgemäße Feststellanordnung an einer Brandschutztür anzuordnen. In den meisten Fällen wird die Brandschutztüre im Normalbetrieb offen gehalten. Die Feststellanordnung dient dann im Brandfall zum Freigeben der Tür, so dass diese von einem Türschließer geschlossen wird. Andererseits kann die Feststellanordnung auch ein Öffnen der Tür veranlassen, indem die geschlossene Tür freigegeben wird und der Türbetätiger sodann automatisch die Türe öffnet, um beispielsweise einen Fluchtweg freizugeben. In einer Ausführungsform dient die Feststellanordnung nur zum Freigeben der Tür, so dass die Tür geschlossen wird.
+
+[0032] In besonders bevorzugter Ausführung ist vorgesehen, dass der Signalgeber und/oder die Auslösevorrichtung und/oder die Haltevorrichtung ausschließlich batteriebetrieben sind. Somit bedarf es für diese drei Komponenten keiner Kabelverbindung zum Gebäudestromnetz.
+
+[0033] Die Erfindung betrifft außerdem ein Verfahren zum Betreiben einer Feststellanordnung. Die Feststellanordnung entspricht bevorzugt einer zuvor beschriebenen Feststellanordnung. Zumindest umfasst die Feststellanordnung eine zum Feststellen der Tür ausgebildete Haltevorrichtung. Somit ist mit der Haltevorrichtung die Tür in geschlossener oder offener Stellung feststellbar. Weiterhin umfasst die Feststellanordnung zumindest zwei Subsysteme mit einer Steuervorrichtung und mindestens einem elektrischen Element. Hierbei kann das elektrische Element eine Magnetspule und/oder ein Energiezwischenspeicher und/oder ein Spannungswandler sein. Das Verfahren umfasst die folgenden Schritte: Durch die Steuervorrichtung eines Subsystems wird das elektrische Element des Subsystems überwacht. Somit stehen der Steuervorrichtung jedes Subsystems Informationen über den Zustand des elektrischen Elements des Subsystems zur Verfügung. Ein Defekt ist daher von der Steuervorrichtung erkennbar. Weiterhin findet eine Überwachung der Steuervorrichtung eines Subsystems durch die Steuervorrichtung eines anderen Subsystems statt. Somit überwachen sich die Steuervorrichtungen der Subsysteme gegenseitig, um so einen Defekt der Steuervorrichtungen selbst festzustellen. In einem weiteren Schritt wird festgestellt, dass ein Defekt in einem Subsystem vorliegt. Daher ist bei Verwendung dieses Subsystems nicht sichergestellt, dass die Haltevorrichtung in einen freigebenden Zustand überführt wird, wenn die zu dem Subsystem gehörende Magnetspule angesteuert wird. Daher wird in einem nächsten Schritt das andere Subsystem verwendet, so dass die Steuervorrichtung des anderen Subsystems die zugehörige Magnetspule ansteuert. Auf diese Weise wird die Haltevorrichtung in den freigegebenden Zustand überführt. Bevorzugt wird zusätzlich auf einer Anzeigevorrichtung angezeigt, dass ein Defekt vorliegt.
+
+[0034] Die Magnetspule wird bevorzugt über eine Leistungsvorrichtung wie bereits bezüglich der erfindungsgemäßen Feststellanordnung beschrieben überwacht. Wird eine vorgegebene Stromstärke in der Magnetspule nicht erreicht, so wird ein Defekt festgestellt.
+
+[0035] Bezüglich des Energiezwischenspeichers wird insbesondere die elektrische Spannung des Energiezwischenspeichers überwacht. Gelingt es nicht, eine vorgegebene elektrische Spannung des Energiezwischenspeichers in einem vorgegebenen Zeitfenster durch Aufladen zu generieren, so wird ein Defekt festgestellt.
+
+[0036] Bezüglich des Spannungswandlers wird insbesondere die Geschwindigkeit der Aufladung des Energiezwischenspeichers überwacht. Wird eine vorgegebene Geschwindigkeit für die Aufladung nicht erreicht, so wird ein Defekt festgestellt.
+
+[0037] Ferner kann vorgesehen sein, dass die Steuervorrichtungen der Subsysteme sich selber überwachen. Hierzu können beispielsweise CPU und RAM-Test durchgeführt werden. Insbesondere wird die Selbstüberwachung in regelmäßigen, vorgegebenen Abständen durchgeführt. Alternativ oder zusätzlich kann die Überwachung der anderen Steuervorrichtung zyklisch, d .h. in regelmäßigen, vorgegebenen Abständen durchgeführt werden. Die Abstände können in der Steuervorrichtung hinterlegt sein. Wird bei einer Überwachung ein Fehler, z. B. beim CPU- oder RAM-Test festgestellt, so wird ein Defekt in dem entsprechenden Subsystem detektiert.
+
+[0038] Wenn ein Defekt in einem der Subsysteme detektiert worden ist, so wird durch ein anderes Subsystem jeweils veranlasst, dass die Haltevorrichtung von einem feststellenden Zustand in einen freigebenden Zustand überführt wird. Somit kann die Tür nicht in einer unerwünschten Stellung verharren, wenn eines der Subsysteme ausfällt. Die vorgegebene Stromstärke in der Magnetspule, die vorgegebene elektrische Spannung des Energiezwischenspeichers und/oder die vorgegebene Geschwindigkeit für die Aufladung sind insbesondere jeweils in der Steuervorrichtung hinterlegt.
+
+[0039] Wird kein Defekt festgestellt, so wird die Haltevorrichtung z. B. im Brandfall nur durch eines der Subsysteme in den freigegebenden Zustand überführt. Somit ist das weitere Subsystem redundant.
+
+[0040] Außerdem ist bevorzugt vorgesehen, dass die Tür durch die Haltevorrichtung in einer geöffneten Position gehalten wird. Bevorzugt wird die Tür nur in geöffneten Position gehalten. In einem weiteren Schritt wird schließlich durch die Auslösevorrichtung ein Brand detektiert. Das Detektieren kann dabei durch die Auslösevorrichtung selbst oder durch einen mit der Auslösevorrichtung verbundenen optional vorgesehenen Signalgeber erfolgen. In einem letzten Schritt wird die Steuervorrichtung eines Subsystems zur Ansteuerung der Magnetspule des Subsystems verwendet, sodass die Tür von der Haltevorrichtung freigegeben wird. Auf diese Weise ist eine Schließfunktion für eine Brandschutztür realisiert, da die ansonsten offen gehaltene Tür im Brandfall geschlossen wird.
+
+[0041] In einer weiteren vorteilhaften Ausgestaltung des Verfahrens wird zusätzlich die verbleibende Spannung der Energiespeichereinheit, insbesondere das Unterschreiten einer vordefinierten minimalen verbleibenden Spannung, von der Anzeigevorrichtung angezeigt. Somit ist ein Benutzer darauf hingewiesen, dass die Energiespeichereinheit zu wechseln ist. Sollte die Spannung der Energiespeichereinheit weiter sinken, so wird die Haltevorrichtung in den freigebenden Zustand überführt.
+
+[0042] Schließlich ist bevorzugt vorgesehen, dass die Energiespeichereinheit die Energiezwischenspeicher auflädt. Dies ist insbesondere daher vorteilhaft, da nur die Energiezwischenspeicher die Magnetspulen mit elektrischer Energie versorgen, während die Energiespeichereinheit die Energiezwischenspeicher lädt. Sollte ein Laden durch die Energiespeichereinheit ausbleiben, beispielsweise durch Spannungsausfall oder Unterspannung der Energiespeichereinheit, so wird die in den Energiezwischenspeichern verbleibende elektrische Energie zur Überführung der Haltevorrichtung in den freigebenden Zustand verwendet, um auszuschließen, dass dies durch spätere Entladung der Energiezwischenspeicher nicht mehr möglich ist.
+
+[0043] Im Folgenden wird die Erfindung anhand eines Ausführungsbeispiels gezeigt und in den Figuren genauer erläutert. Hierzu zeigt:
+
+    Fig. 1
+    eine erfindungsgemäße Feststellanordnung gemäß einem Ausführungsbeispiel,
+    Fig. 2
+    ein schematisches Schaltbild der erfindungsgemäßen Feststellanordnung gemäß dem Ausführungsbeispiel,
+    Fig. 3
+    ein erfindungsgemäßes Verfahren, das in einer erfindungsgemäßen Feststellanordnung hinterlegt ist,
+    Fig. 4
+    ein Ausschnitt des erfindungsgemäßen Verfahrens, das in einer erfindungsgemäßen Feststellanordnung hinterlegt ist,
+    Fig. 5
+    ein weiterer Ausschnitt des erfindungsgemäßen Verfahrens, das in einer erfindungsgemäßen Feststellanordnung hinterlegt ist.
+
+[0044] Fig. 1 zeigt eine Feststellanordnung 1 gemäß dem Ausführungsbeispiel. Dargestellt ist eine Tür 2. An dieser Tür 2 ist neben der Feststellanordnung 1 ein Türbetätiger 3, ausgebildet als Türschließer, montiert. In dem Türbetätiger 3 ist eine Schließerfeder integriert. Die Kraft der Schließerfeder überträgt sich von der Schließerfeder über ein Gestänge 4 auf ein Gleitelement 9. Das Gleitelement 9 ist in einer sturzseitig montierten Gleitschiene 5 der Feststellanordnung 1 geführt.
+
+[0045] Des Weiteren umfasst die Feststellanordnung 1 eine Auslösevorrichtung 8. Diese ist als Rauchmelder und/oder Brandmelder ausgebildet. Alternativ oder zusätzlich ist die Auslösevorrichtung 8 mit weiteren Signalgebern 6 (vgl. Figur 2 ) verbindbar, wobei die Signalgeber 6 insbesondere an der Decke montiert sind. Weiterer Bestandteil der Feststellanordnung 1 ist eine Haltevorrichtung 7, mit der das Gleitelement 9 feststellbar ist. Durch das Feststellen des Gleitelements 9 ist die Tür 2 in der geöffneten Position haltbar. Eine Ansteuerung der Haltevorrichtung 7 erfolgt durch und innerhalb zweier Subsysteme 25, deren Aufbau und Funktion nachfolgend mit Bezug auf Figur 2 beschrieben wird. Die Haltevorrichtung 7 wird von den Subsystemen 25 derart angesteuert, dass das Gleitelement 9 so lange festgestellt wird , bis die Auslösevorrichtung 8 ein Auslösesignal an die Subsysteme 25 aussendet.
+
+[0046] Im Falle einer Rauchentwicklung oder einer Brandentwicklung wird dies von der Auslösevorrichtung 8 und/oder von den externen Signalgebern 6 detektiert. Die externen Signalgeber 6 sind über Funk an die Auslösevorrichtungen 8 gekoppelt. Die Auslösevorrichtung 8 erzeugt das Auslösesignal, wenn ein Brand oder eine Rauchentwicklung detektiert wurde. Dieses Auslösesignal wird an die Subsysteme 25 weitergeleitet, wodurch die Haltevorrichtung 7 von einem feststellenden Zustand SZ in den freigebenden Zustand GZ überführt wird und das Gleitelement 9 freigibt. Somit kann die in den Schließfedern des Türbetätigers 3 vorgespeicherte Energie die Türflügel der Tür 2 schließen.
+
+[0047] Figur 2 zeigt ein schematisches Schaltbild der Feststellanordnung 1. In dem in Figur 2 gezeigten Ausführungsbeispiel sind zwei Signalgeber 6 vorhanden, die über eine Funkstrecke mit der Auslösevorrichtung 8 kommunizieren. Die Signalgeber 6 sind somit in der Lage, ein Signal an die Auslösevorrichtung 8 zu übertragen, wenn die Signalgeber 6 Rauch oder einen Brand detektieren. Ebenso ist die Auslösevorrichtung 8 ausgebildet, einen Brand zu detektieren.
+
+[0048] Außerdem weist Feststellanordnung 1 zwei Subsysteme 25 auf, wobei die Auslösevorrichtung 8 mit den Subsystemen 25 verbunden ist. Daher ist die Auslösevorrichtung 8 mit zwei Steuervorrichtungen 11 verbunden. Die Steuervorrichtungen 11 haben eine identische Funktion. Die Steuervorrichtungen 11 sind insbesondere Mikrocontroller. Die Steuervorrichtungen 11 sind über eine Datenleitung 20 zum Datenaustauch miteinander verbunden, sodass eine gegenseitige Überwachung der Steuervorrichtungen 11 realisiert ist. Dies erlaubt das Erkennen von Fehlern innerhalb des einen Subsystems 25 durch das andere Subsystem 25. Somit ist eine Redundanz innerhalb der Feststellanordnung 1 gegeben.
+
+[0049] Die Steuervorrichtungen 11 sind derart eingerichtet, Magnetspulen 10 anzusteuern. Jedes Subsystem 25 weist zumindest eine Magnetspule 10 auf, sodass jede Magnetspule 10 eines Subsystems 25 von der Steuervorrichtung 11 des Subsystems 25 ansteuerbar ist. Die Magnetspulen 10 sind Teil einer Haltevorrichtung 7, mit der ein Anker 22 in zumindest zwei unterschiedlichen Positionen haltbar ist, ohne dass von außen Energie zugeführt werden muss. Insbesondere weist die Haltevorrichtung 7 einen Elektromagneten auf. Der Elektromagnet hält den Anker 22 so lange in einer ersten Position, bis ein Stromimpuls an einer der Magnetspulen 10 den Elektromagnet umschaltet und somit den Anker 22 in eine von der ersten Position verschiedene zweite Position überführt.
+
+[0050] Somit ist jede Steuervorrichtung 11 eingerichtet, eine Magnetspule 10 mit einem Stromimpuls zu beaufschlagen, um das Gleitelement 9 freizugeben. Dazu ist jede Steuervorrichtung 11 mit jeweils einer Leistungsvorrichtung 16 verbunden, wobei die Leistungsvorrichtungen 16 elektrische Energie jeweils nach den Vorgaben der Steuervorrichtungen 11 an eine der Leistungsvorrichtung 16 zugeordnete Magnetspule 10 abgeben. Durch das Beaufschlagen der Magnetspulen 10 mit elektrischer Energie wird das Gleitelement 9 freigegeben. Somit basiert die Feststellanordnung 1 auf einem Arbeitsstromprinzip.
+
+[0051] Durch die Verwendung des Arbeitsstromprinzips muss eine zuverlässige Freigabe im Falle des Empfangens des Auslösesignals von der Auslösevorrichtung 8 gewährleistet sein. Daher weist die Feststellanordnung 1 in jedem Subsystem 25 zumindest eine Überwachungsvorrichtung 17, insbesondere für jede Magnetspule 10 eine eigene Überwachungsvorrichtung 17, auf. Die Überwachungsvorrichtung 17 überprüft, ob die der Magnetspule 10 zugewiesene Schaltsignale umgesetzt werden und/oder ob eine Unterbrechung des Stromkreises der Magnetspule 10 vorliegt. Dazu ist die Überwachungsvorrichtung 17 eines Subsystems 25 mit der Steuervorrichtung 11 des Subsystems 25 elektrisch verbunden. Sollte ein Fehler der Magnetspule 10 des Subsystems 25 erkannt werden, beispielsweise eine Unterbrechung im Stromkreis der Magnetspule 10, so ist nicht gewährleistet, dass ein Ansteuern der Magnetspule 10 das Gleitelement 9 freigibt. Aufgrund des Vorhandenseins mehrerer Subsysteme 25 innerhalb der Feststellanordnung 1 ist jedoch eine weitere Magnetspule 10 vorhanden, so dass das Gleitelement 9 durch Ansteuerung der weiteren Magnetspule 10 freigebbar ist.
+
+[0052] Ferner weist jedes Subsystem zumindest einen Energiezwischenspeicher 15 auf. Die zum Betreiben der Magnetspulen 10 benötigte elektrische Energie ist in dem Energiezwischenspeicher 15 gespeichert, wobei insbesondere jeder Magnetspule 10 ein Energiezwischenspeicher 15 zugeordnet ist. Der Energiezwischenspeicher 15 ist elektrisch mit der Leistungsvorrichtung 16 verbunden, so dass die elektrische Energie, die in dem Energiezwischenspeicher 15 gespeichert ist, über die Leistungsvorrichtung 16 an die Magnetspule 10 abgebbar ist.
+
+[0053] Jedes Subsystem 25 weist außerdem zumindest einen Spannungswandler 14 auf, wobei die Energiezwischenspeicher 15 über die Spannungswandler 14, insbesondere jeder Energiezwischenspeicher 15 über jeweils einen eigenen Spannungswandler 14, von einer gemeinsamen Energiespeichereinheit 12 geladen werden. Lediglich zur besseren Übersicht ist in Figur 2 der Energiespeicher 12 in drei Elementen dargestellt. Die Energiespeichereinheit 12 ist insbesondere eine Batterie oder ein Akkumulator oder eine Schaltung aus mehreren Batterien oder Akkumulatoren. Somit ist die Feststellanordnung 1 unabhängig von einer externen Stromversorgung, beispielsweise einem Hausnetz.
+
+[0054] Außerdem weist jedes Subsystem 25 zumindest eine Speichervorrichtung 13 auf, wobei die Energiespeichereinheit 12 über die Speichervorrichtungen 13 mit den Steuervorrichtungen 11 verbunden ist. Mittels der Speichervorrichtung 13 wird ein Spannungsausfall und/oder eine Unterspannung der Energiespeichereinheit 12 detektiert ausgeführt. Sollte ein Zustand der Energiespeichereinheit 12 mittels einer der Speichervorrichtung 13 detektiert werden, der ein zuverlässiges Aufladen der Energiezwischenspeicher 15 nicht ermöglicht, so steuern die Steuervorrichtungen 11 anschließend die Magnetspulen 10 derart an, dass das Gleitelement 9 freigegeben wird. Somit ist verhindert, dass das Gleitelement 9 von der Feststellanordnung 1 gehalten wird und aufgrund eines Ausfalls der Energiespeichereinheit 12 ein Überführen in den freigebenden Zustand GZ nicht mehr möglich ist.
+
+[0055] Die Speichervorrichtung 13 umfasst des weiteren jeweils einen Kondensator, mit dem die jeweils zugeordnete Steuervorrichtung 11 mit elektrischer Energie versorgt werden kann.
+
+[0056] Außerdem weist die Feststellanordnung 1 vorteilhafterweise eine Anzeigevorrichtung 18 auf, mit der der Zustand jeder Magnetspule 10 und/oder der Energiespeichereinheit 12 darstellbar ist. Weiterhin ist bevorzugt ein Taster 19 vorgesehen.
+
+[0057] Schließlich weist die Feststellanordnung 1 einen Positionssensor 23 auf, der eine Position des Ankers 22 erfasst. Der Positionssensor 23 ist insbesondere ein magnetischer Schalter, z. B. ein Reedschalter.
+
+[0058] Um die Feststellanordnung 1 auch bei Verwendung des Arbeitsstromprinzips sicher und zuverlässig verwenden zu können, ist eine Überwachung der Feststellanordnung vorteilhaft. Daher findet eine ständige Überwachung der Magnetspule 10 und des Energiezwischenspeichers 15 eines Subsystems 25 durch die die Steuervorrichtung 11 des Subsystems 25 statt. Dies bedeutet, dass die Steuervorrichtungen 11 jedes Subsystems 25 stets Informationen über den Zustand der Komponenten des Subsystems 25 besitzen. Insbesondere werden diese Informationen über alle Steuervorrichtungen 11 ausgetauscht. Zusätzlich findet eine Überwachung der Steuervorrichtung 11 eines Subsystems 25 durch die Steuervorrichtung 11 des anderen Subsystems 25 statt. Dies dient dazu, Ausfälle von Steuervorrichtungen 11 selbst zu erkennen. Wird schließlich festgestellt, dass ein Defekt in der Magnetspule 10, dem Energiezwischenspeicher 15 oder der Steuervorrichtung 11 eines Subsystems 25 vorliegt, so wird das andere Subsystems 25 verwendet, um das Gleitelement 9 freizugeben.
+
+[0059] Figur 3 stellt ein Ausführungsbeispiel eines erfindungsgemäßen Verfahrens 30 dar, das mit Hilfe der Feststellanordnung 1 der Figuren 1 und 2 ausgeführt wird. Hierbei ist ein Teil der Feststellanordnung 1 erneut dargestellt: nämlich die beiden Subsysteme 25, die in Figur 3 als erstes Subsystem 25.1 und als zweites Subsystem 25.2 bezeichnet werden. Die Subsysteme 25.1 und 25.2 umfassen jeweils die Steuervorrichtungen 11, die jeweils die Magnetspule 10 und den Energiezwischenspeicher 15 des jeweiligen Subsystems 25.1, 25.2 gemäß den Pfeilen 32 und 33 überwachen. Ferner überwachen sich die Steuervorrichtungen 11 selber, was durch die Pfeile 31 gekennzeichnet ist. Die Steuervorrichtungen 11 überwachen sich gemäß dem Pfeil 34 gegenseitig.
+
+[0060] Stellt die Steuervorrichtung 11 des ersten Subsystems 25.1 fest, dass ein Defekt im ersten Subsystem 25.1 aufgetreten ist, so wird die Steuervorrichtung 11 des zweiten Subsystems 25.2 durch die Steuervorrichtung 11 des ersten Subsystems 25.1 informiert. Daraufhin veranlasst die Steuervorrichtung 11 des zweiten Subsystems 25.2 die Überführung der Haltevorrichtung 7 in den freigebenden Zustand GZ. Stellt entsprechend die Steuervorrichtung 11 des zweiten Subsystems 25.2 fest, dass ein Defekt im zweiten Subsystem 25.2 aufgetreten ist, so wird die Steuervorrichtung 11 des ersten Subsystems 25.1 durch die Steuervorrichtung 11 des zweiten Subsystems 25.2 informiert, die daraufhin die Überführung der Haltevorrichtung 7 in den freigebenden Zustand GZ veranlasst. Ebenfalls wird eine Überführung der Haltevorrichtung 7 in den freigebenden Zustand GZ veranlasst, wenn die Steuervorrichtung 11 des ersten Subsystems 25.1 eine defekte Steuervorrichtung 11 des zweiten Subsystems 25.2 oder die Steuervorrichtung 11 des zweiten Subsystems 25.2 eine defekte Steuervorrichtung 11 des ersten Subsystems 25.1 detektiert. Hierbei wird die Überführung durch die nicht defekte Steuervorrichtung 11 vorgenommen.
+
+[0061] Figur 4 und Figur 5 enthalten Details, wie die Steuervorrichtungen 11 jeweils den Energiezwischenspeicher 15 und die Magnetspule 10 überwachen können.
+
+[0062] In Figur 4 ist ein Verfahren 40 dargestellt, bei dem jeweils die Magnetspule 10 testhalber bestromt werden soll. Hierzu muss zunächst in einem Verfahrensschritt 41 durch den Positionssensor 23 die Position des Ankers 22 ermittelt und dadurch festgestellt werden, ob sich die Haltevorrichtung 7 in dem feststellenden Zustand SZ oder in dem freigebenden Zustand GZ befindet. Entsprechend wird in einem Verfahrensschritt 42 in einem Test T die Magnetspule 10 durch die Leistungsvorrichtung 16 derart bestromt, dass der durch die Magnetspule 10 fließende Strom wirkungslos auf den Zustand der Haltevorrichtung 7 ist. Der Test T wird eine vorgegebene Entladezeitspanne Δt2 lang durchgeführt. Während des Test T wird in einem Verfahrensschritt 43 die Stromstärke I1 mittels der Überwachungsvorrichtung 17 gemessen. Die Steuereinheit 11 überprüft in einem Verfahrensschritt 44, ob sich die Stromstärke I1 in einem Wertebereich I0 , I2 befindet mit I0 < I1 < I2 . Ist dieses nicht der Fall, was in Figur 4 mit einem "-" gekennzeichnet ist, wird die Haltevorrichtung 7 durch das andere Subsystem 25.1, 25.2 in den freigebenden Zustand GZ überführt, was dem Verfahrensschritt 45 entspricht.
+
+[0063] Ebenfalls wird ein Spannungswert U2 , der für den Energiezwischenspeicher 15 charakteristisch ist, vor und nach der Entladezeitspanne Δt2 des Tests T ermittelt. Eine entsprechende Messstelle kann sich zwischen dem Energiezwischenspeicher 15 und der Leistungsvorrichtung 16 befinden. Aus den ermittelten Spannungswerten U2 wird in einem Verfahrensschritt 46 eine Spannungswertdifferenz, d. h. ein Spannungsabfall ΔU2 berechnet. Anschließend wird in einem Verfahrensschritt 47 überprüft, ob der Spannungsabfall ΔU2 größer ist als ein Maximalwert ΔUV . Ist dieses der Fall, was in Figur 4 mit einem "+" gekennzeichnet ist, so wird die Haltevorrichtung 7 in den freigebenden Zustand GZ durch das andere Subsystem 25.1, 25.2 gemäß Verfahrensschritt 45 überführt. Hierdurch wird verhindert, dass im Falle eines Energiezwischenspeicher 15, der gealtert ist und nur noch eine geringe elektrische Energiemenge speichern kann, im Brandfall die Haltevorrichtung 7 in den freigebenden Zustand GZ überführt werden muss.
+
+[0064] Liegt die Stromstärke I1 in einem Wertebereich I0 , I2 , was in Figur 4 mit einem "+" dargestellt ist und ist der Spannungsabfall ΔU2 kleiner als ein Maximalwert ΔUV , so wird lediglich in einem vorgegebenen Zeitabstand Δt3 das Verfahren 40 erneut gestartet.
+
+[0065] In Figur 5 ist ein weiteres Verfahren 50 zur Überwachung des Energiezwischenspeichers 15 dargestellt. Um genügend elektrische Energie in dem Energiezwischenspeicher 15 zur Verfügung zu haben, wird gemäß dem Verfahrensschritt 51 der Energiezwischenspeicher 15 in vorgegebenen Zeitabständen Δt5 ein Spannungswert U2 für den Energiezwischenspeicher 15 ermittelt. In einem Verfahrensschritt 52 wird überprüft, ob der ermittelte Spannungswert U2 einen Sollspannungswert UV2 um einen vorgegebenen Betrag B unterschreitet. Falls dieses der Fall ist, was in Figur 5 durch ein "+" gekennzeichnet ist, so wird versucht den Energiezwischenspeicher 15 gemäß dem Verfahrensschritt 53 wieder aufzuladen. Ist dieses nicht der Fall, was in Figur 5 durch ein "-" gekennzeichnet ist, wird in dem vorgegebenen Zeitabstand Δt5 eine erneute Ermittlung von U2 durchgeführt. Im Falle einer Aufladung wird in einem Verfahrensschritt 54 überprüft, ob Zeit t (U2 =UV2 ) für die Aufladung des Energiezwischenspeichers 15 auf den Sollspannungswert UV2 innerhalb eines vorgegebenen Zeitfensters Δt4 erfolgt. Hierbei hat das Zeitfenster Δt4 sowohl eine obere Grenze toben als auch eine untere Grenze tunten im Sekundenbereich. D. h. die Aufladung kann zu langsam erfolgen, z. B. weil der Spannungswandler 14 defekt ist, oder zu schnell, z. B. weil der Energiezwischenspeicher 15 eine zu geringe Kapazität aufweist. Erfolgt die Aufladung nicht in dem Zeitfenster Δt4 , was in Figur 5 mit "-" gekennzeichnet ist, wird in einem Verfahrensschritt 55 die Haltevorrichtung 7 in den freigebenden Zustand GZ durch das andere Subsystem 25.1, 25.2 überführt. Ansonsten wird die Routine in den vorgegebenen Zeitabständen Δt5 wiederholt.
+
+[0066] tunten und toben können in Abhängigkeit von dem vorgegebenen, zu unterschreitenden Betrag B und der Kapazität des Energiezwischenspeichers 15 gewählt sein. Als ein Wert kann tunten z. B. zwischen 0,1 s und 10 s, bevorzugt zwischen 1 s und 4 s gewählt sein. Als ein Wert kann toben z. B. zwischen 10 s und 60 s, bevorzugt zwischen 5 s und 30 s gewählt sein. Beispielsweise kann das vorgegebene Zeitfenster Δt4 gegeben sein durch 0,1 s=tunten ≤ Δt4 ≤ 60 s=toben oder 1s=tunten ≤ Δt4 ≤ 30 s=toben oder 3 s = tunten ≤ Δt4 ≤ 16 s=toben . Insbesondere wird durch die untere Grenze tunten einer Alterung des Energiezwischenspeichers 15 um 10 % bis 50 %, bevorzugt um 20% bis 40% Rechnung getragen.
+
+[0067] Die vorgegebene Entladezeitspanne Δt2 kann eine sehr geringere Zeitspanne sein, um die Energiespeichereinheit 12 nicht unnötig zu entladen. So kann beispielsweise die vorgegebene Entladezeitspanne Δt2 als eine Zeit zwischen 10 ms und 2 s, bevorzugt zwischen 20 ms und 80 ms vorgegeben sein.
+
+[0068] Es kann ausreichend sein, den vorgegebenen Zeitabstand Δt3 als einen großen Zeitabstand zu wählen. Beispielsweise kann Δt3 als ein Wert aus dem Intervall 2 h ≤ Δt3 ≤ 48 h, bevorzugt 6h ≤ Δt3 ≤ 36 h, besonders bevorzugt 12h ≤ Δt3 ≤ 30 h gewählt sein.
+
+[0069] Der vorgegebene Zeitabstand Δt5 kann als ein Wert aus einem Intervall mit 2s ≤ Δt5 ≤ 20 s, bevorzugt 4s ≤ Δt5 ≤ 12 s ausgewählt sein. Insbesondere kann Δt5 8s betragen.
+
+[0070] Die untere Grenze I0 und die obere Grenze I2 für die Stromstärke IMagnet sind von der Stromstärke, die für die Magnetspule 10 benötigt und/oder bevorzugt wird, z. B. von der Nennstromstärke, abhängig. Die untere Grenze I0 kann z. B. so gewählt werden, dass die Magnetspule 10 oberhalb der unteren Grenze I0 ein genügendes Magnetfeld 10 für die Überführung der Haltevorrichtung 7 in den freigebenden Zustand GZ erzeugt. Die obere Grenze I2 kann z. B. so gewählt werden, dass oberhalb der oberen Grenze I2 ein Kurzschlussstrom vorliegt. Z. B. kann die untere Grenze I0 als ein Wert aus dem Intervall 0,5* IMagnet ≤ I0 ≤ 0,95 *IMagnet , bevorzugt 0,6* IMagnet ≤ I0 ≤ 0,9* IMagnet , bevorzugt 0,75* IMagnet ≤ I0 ≤ 0,85 *IMagnet ausgewählt sein. Z. B. kann die obere Grenze I2 als ein Wert aus dem Intervall 1,3* IMagnet ≤ I2 ≤ 3 *IMagnet , bevorzugt 1,5* IMagnet ≤ I2 ≤ 2,5* IMagnet , bevorzugt 1,7* IMagnet ≤ I0 ≤ 2,2* IMagnet ausgewählt sein. Rein exemplarisch kann die untere Grenze I0 als ein Wert aus dem Intervall 300 mA ≤ I0 ≤ 575 mA, bevorzugt 350 mA ≤ I0 ≤ 550 mA, besonders bevorzugt 400 mA ≤ I0 ≤ 500 mA gewählt sein. Die obere Grenze I2 als ein Wert aus dem Intervall 800 mA ≤ I2 ≤ 2000 mA, bevorzugt 1000 mA ≤ I2 ≤ 1500 mA, gewählt sein. Es ist denkbar, dass für die Magnetspule jedes Subsystems 25.1, 25.2 unterschiedliche Stromstärken benötigt werden.
+
+[0071] Der Maximalwert ΔUV kann derart gewählt werden, dass eine Alterung der Kapazität des Kondensatorelements um 10 % bis 50 %, bevorzugt um 20% bis 40% Rechnung getragen wird. Entsprechend kann der Maximalwert ΔUV einem Wert aus dem 1,1- bis 2- fachen, bevorzugt dem 1,25- bis 1,7-fachen, des Spannungsabfalls des nicht gealterten Kondensatorelements für die vorgegeben Entladezeitspanne entsprechen. Beispielsweise kann der Maximalwert ΔUV ein Wert zwischen 0,3 V und 1 V sein.
+
+[0072] Der Sollspannungswert UV2 ist derart zu wählen, dass in Abhängigkeit von der Kapazität des verwendeten Energiezwischenspeichers 15 die Ladungsmenge zur Überführung der Haltevorrichtung 7 in den freigebenden Zustand GZ ausreicht. Bevorzugt reicht die Ladungsmenge für eine n-fache Überführung in den freigebenden Zustand GZ aus, wobei n aus dem Bereich 2 ≤ n ≤ 4, bevorzugt 2 ≤ n ≤ 10 gewählt ist. Beispielsweise kann UV2 ein Wert aus einem Bereich mit 8V ≤ UV2 ≤ 16 V, bevorzugt 10V ≤ UV2 ≤ 14 V sein.
+
+[0073] Der Betrag B, um den der ermittelte Spannungswert U2 den Sollspannungswert UV2 ohne Aufladen unterschreiten darf, kann als ein Wert aus dem Intervall 0,05 UV2 ≤ B ≤ (n-1)/n UV2 gewählt werden. Zusätzlich oder alternativ kann der Betrag B ein Wert aus einem Intervall 0,05 UV2 ≤ B ≤ 0,4 UV2 , bevorzugt 0,05 UV2 ≤ B ≤ 0,2 UV2 , besonders bevorzugt 0,05 UV2 ≤ B ≤ 0,1 UV2 sein. Beispielsweise kann B als ein Wert zwischen 0,5 V und 1,5 V gewählt sein.
+Bezugszeichenliste
+
+[0074]
+
+    1
+    Feststellanordnung
+    2
+    Tür
+    3
+    Türbetätiger
+    4
+    Gestänge
+    5
+    Gleitschiene
+    6
+    Signalgeber
+    7
+    Haltevorrichtung
+    8
+    Auslösevorrichtung
+    9
+    Gleitelement
+    10
+    Magnetspule
+    11
+    Steuervorrichtung
+    12
+    Energiespeichereinheit
+    13
+    Speichervorrichtung
+    14
+    Spannungswandler
+    15
+    Energiezwischenspeicher
+    16
+    Leistungsvorrichtung
+    17
+    Überwachungsvorrichtung
+    18
+    Anzeigevorrichtung
+    19
+    Taster
+    20
+    Datenleitung
+    22
+    Anker
+    23
+    Positionssensor
+    25
+    Subsystem
+
+    30
+    Verfahren
+    31-34
+    Überwachungspfeile
+
+    40
+    Verfahren
+    41 bis 45
+    Verfahrensschritte
+    50
+    Verfahren
+    51 bis 55
+    Verfahrensschritte
+
+    SZ
+    feststellender Zustand
+    GZ
+    freigebender Zustand
+
+    U2
+    Spannungswert für 15
+    UV2
+    Sollspannungswert
+    B
+    Betrag
+    t
+    Zeit, um den Sollspannungswert zu erreichen
+
+    I1
+    gemessene Stromstärke
+    I0 , I2
+    Grenzen des Wertebereichs
+    T
+    Test
+    ΔU2
+    Spannungsabfall für 15
+    ΔUV
+    Maximalwert
+
+    Δt2
+    vorgegebene Entladezeitspanne
+    Δt3
+    vorgegebener Zeitabstand
+    Δt4
+    vorgegebenes Zeitfenster
+    Δt5
+    vorgegebener Zeitabstand
